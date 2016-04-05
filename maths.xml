@@ -17,5 +17,5 @@
 <target name="main" depends="1,2,3,4">
     <echo>print number 5
 	</echo>
-</target>	
+
 </project>	
